@@ -1,6 +1,6 @@
 nose
 nose-testconfig
-flask==0.10.1
+flask==1.0
 Werkzeug
 mock
 flake8 # Used by tox
